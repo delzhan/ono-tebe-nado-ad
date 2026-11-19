@@ -1,1 +1,1 @@
-https://github.com/svv-cyber/ono-tebe-nado-ad
+https://github.com/delzhan/ono-tebe-nado-ad
